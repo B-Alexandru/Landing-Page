@@ -22,7 +22,7 @@
 .main-header span {
     display: block;
     font-size: clamp(1rem,14vw + 1rem,8rem);
-    color: hsla(0, 69%, 85%, 0.267);
+    color: hsla(138, 77%, 55%, 0.267);
 }
 .main-status {
     text-transform: uppercase;
